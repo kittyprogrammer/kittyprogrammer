@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ana
-- 👀 I’m interested in maybe data analitics
+- 👀 I’m interested in data analitics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything that could help me get a better ideea of this field- Data analitics or SQL
 - 📫 How to reach me ...
